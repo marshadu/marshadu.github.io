@@ -24,7 +24,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://marshadu.github.io/files/Umer_Arshad_CV.pdf
     
   # - title: "CV"
   #   url: /cv-json/
