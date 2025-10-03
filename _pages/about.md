@@ -6,9 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
 ---
-
 Welcome! I am **Muhammad Umer Arshad**, a Postdoctoral Researcher in the **Department of Crop Sciences at the University of Illinois Urbana–Champaign (UIUC)**.  
 My research focuses on the intersection of **agricultural economics, climate change, and sustainable bioenergy systems**. I use **econometric modeling (SFA, DEA, panel regression, gravity models)**, **process-based modeling (DayCent)**, and **spatial analysis (GIS/remote sensing)** to assess the economic and environmental impacts of cropping systems and renewable energy crops.  
 
