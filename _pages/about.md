@@ -45,6 +45,3 @@ The main configuration file for the site is in the base directory in [_config.ym
 This website is powered by the **[Academic Pages](https://github.com/academicpages/academicpages.github.io)** template and hosted on **[GitHub Pages](https://pages.github.com/)**.  
 The template is a fork of the **[Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)** created by *Michael Rose*, and extended to support academic content such as publications, talks, teaching, a portfolio, blog posts, and a dynamically generated CV.
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
