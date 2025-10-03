@@ -17,6 +17,10 @@ My research focuses on the intersection of **agricultural economics, climate cha
 - Crop insurance, risk management, and farmer decision-making  
 - Life Cycle Assessment (LCA) and Techno-Economic Analysis (TEA) 
 
+### 🔹 Current Projects
+- **Next-Generation Feedstocks for the Emerging Bioeconomy (DOE, DE-EE0008521):** Evaluating sustainability, carbon intensity, and profitability of switchgrass across Midwest sites in collaboration with USDA and Argonne National Lab.  
+- **Spatial Analysis of Marginal Land in Illinois:** Identifying marginal cropland and integrating soils and weather data for regional DayCent simulations.  
+- **Machine Learning for Agriculture:** Developing YOLO-based computer vision models to detect and count hemp flowers from drone imagery.  
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
