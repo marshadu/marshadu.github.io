@@ -35,7 +35,7 @@ My research focuses on the intersection of agricultural economics, climate chang
 
 ### 🔹 Contact
 📍 Department of Crop Sciences, University of Illinois Urbana–Champaign  
-✉️ marshad@illinois.edu | [LinkedIn](https://www.linkedin.com/in/arshadumer/) | [Google Scholar](https://scholar.google.com/citations?user=iQbRc7kAAAAJ&hl=en) 
+✉️ marshadu2024@gmail.com / marshad@illinois.edu | [LinkedIn](https://www.linkedin.com/in/arshadumer/) | [Google Scholar](https://scholar.google.com/citations?user=iQbRc7kAAAAJ&hl=en) 
 
 ### Credits
 This website is powered by the **[Academic Pages](https://github.com/academicpages/academicpages.github.io)** template and hosted on **[GitHub Pages](https://pages.github.com/)**.  
