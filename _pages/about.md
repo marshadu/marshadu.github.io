@@ -40,6 +40,4 @@ My research focuses on the intersection of agricultural economics, climate chang
 ### Credits
 *Website adapted from the [Academic Pages](https://github.com/academicpages/academicpages.github.io) template, originally based on the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme by Michael Rose. Hosted on [GitHub Pages](https://pages.github.com/).*
 
-This website is powered by the **[Academic Pages](https://github.com/academicpages/academicpages.github.io)** template and hosted on **[GitHub Pages](https://pages.github.com/)**.  
-The template is a fork of the **[Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)** created by *Michael Rose*, and extended to support academic content such as publications, talks, teaching, a portfolio, blog posts, and a dynamically generated CV.
 
