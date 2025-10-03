@@ -1,5 +1,4 @@
 ---
----
 permalink: /
 title: "Muhammad Umer Arshad"
 author_profile: true
@@ -49,8 +48,6 @@ My research focuses on the intersection of **agricultural economics, climate cha
 ✉️ marshad@illinois.edu | [LinkedIn](https://www.linkedin.com/in/arshadumer/) | [Google Scholar](https://scholar.google.com/citations?user=iQbRc7kAAAAJ&hl=en)  
 
 ---
-
-
 
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
