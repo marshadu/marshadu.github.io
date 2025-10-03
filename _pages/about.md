@@ -1,5 +1,56 @@
 
 ---
+permalink: /
+title: "Muhammad Umer Arshad"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+Welcome! I am **Muhammad Umer Arshad**, a Postdoctoral Researcher in the **Department of Crop Sciences at the University of Illinois Urbana–Champaign (UIUC)**.  
+My research focuses on the intersection of **agricultural economics, climate change, and sustainable bioenergy systems**. I use **econometric modeling (SFA, DEA, panel regression, gravity models)**, **process-based modeling (DayCent)**, and **spatial analysis (GIS/remote sensing)** to assess the economic and environmental impacts of cropping systems and renewable energy crops.  
+
+---
+
+### 🔹 Research Interests
+- Climate change impacts on agriculture and crop productivity  
+- Bioenergy crops and sustainable biofuel feedstock production  
+- Efficiency and productivity analysis (Stochastic Frontier, DEA)  
+- Crop insurance, risk management, and farmer decision-making  
+- Life Cycle Assessment (LCA) and Techno-Economic Analysis (TEA)  
+
+---
+
+### 🔹 Current Projects
+- **Next-Generation Feedstocks for the Emerging Bioeconomy (DOE, DE-EE0008521):** Evaluating sustainability, carbon intensity, and profitability of switchgrass across Midwest sites in collaboration with USDA and Argonne National Lab.  
+- **Spatial Analysis of Marginal Land in Illinois:** Identifying marginal cropland and integrating soils and weather data for regional DayCent simulations.  
+- **Machine Learning for Agriculture:** Developing YOLO-based computer vision models to detect and count hemp flowers from drone imagery.  
+
+---
+
+### 🔹 Selected Publications
+- Arshad, M.U. *et al.* (2025). **Comparative economic analysis between bioenergy and forage types of switchgrass for sustainable biofuel feedstock production: A DEA and cost–benefit analysis approach.** *GCB Bioenergy.*  
+- Arshad, M.U. *et al.* (2025). **Optimizing Bioenergy Harvest: Stepwise vs Integrated Methods for Economic and Environmental Sustainability.** *Bioresource Technology* (under review).  
+- Namoi, N., Arshad, M.U. *et al.* (2025). **Field-scale evaluation of ecosystem service benefits of bioenergy switchgrass.** *Journal of Environmental Quality.*  
+
+👉 [See full list on Google Scholar](https://scholar.google.com/citations?user=iQbRc7kAAAAJ&hl=en)  
+
+---
+
+### 🔹 Media Highlights
+- *Prairie grass shows potential for sustainable aviation fuel* – [WCIA News](https://www.wcia.com/news/champaign-county/prairie-grass-shows-potential-for-sustainable-aviation-fuel-u-of-i-scientists/) (2025)  
+- *Switchgrass powers new hopes for aviation fuel* – [Farms.com](https://m.farms.com/news/switchgrass-powers-new-hopes-for-aviation-fuel-226398.aspx) (2025)  
+
+---
+
+### 🔹 Contact
+📍 Department of Crop Sciences, University of Illinois Urbana–Champaign  
+✉️ marshad@illinois.edu | [LinkedIn](https://www.linkedin.com/in/arshadumer/) | [Google Scholar](https://scholar.google.com/citations?user=iQbRc7kAAAAJ&hl=en)  
+
+---
+
+---
 
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
