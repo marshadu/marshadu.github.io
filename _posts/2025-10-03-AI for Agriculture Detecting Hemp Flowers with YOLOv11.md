@@ -4,7 +4,6 @@ date: 2025-10-07
 tags: [AI, Agriculture, Computer Vision, Hemp, YOLO, Precision Agriculture]
 ---
 
-![Hemp field drone view](../images/hemp_field_drone.jpg)
 
 In our latest project, we’re bringing artificial intelligence to the hemp field. Using **drone imagery** and an advanced **YOLOv11 deep learning model**, our team has developed an automated system that can **detect and count male and female flowers in hemp plants** — a task that has traditionally required time-consuming and error-prone manual scouting.
 
@@ -20,4 +19,4 @@ While this work is still ongoing and part of a larger research study, our goal i
 
 Stay tuned — and if you’re curious to try the demo once it’s publicly released, I’ll share the link here soon!
 
-![Hemp detection web app interface](../images/hemp_webapp_ui.jpg)
+
