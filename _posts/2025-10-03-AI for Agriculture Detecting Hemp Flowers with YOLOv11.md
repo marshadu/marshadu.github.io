@@ -27,8 +27,10 @@ Our YOLOv11-based **Hemp Flower Detection App** is now publicly available!
 You can upload hemp field images and instantly detect male and female flowers directly in your browser — no installation or coding required.
 
 <p align="center">
-  <a href="https://huggingface.co/spaces/marshadu2024/hemp-flower-detect" target="_blank">
-    <img src="https://img.shields.io/badge/Try%20it%20on%20Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" alt="Try on Hugging Face">
+  <a href="https://huggingface.co/spaces/marshadu2024/hemp-flower-detect" target="_blank"
+     style="background: linear-gradient(90deg, #007bff, #7b2ff7); color: white; font-weight:600;
+     padding: 12px 26px; border-radius: 8px; text-decoration:none; font-size:16px;">
+     🚀 Launch AI Demo
   </a>
 </p>
 
