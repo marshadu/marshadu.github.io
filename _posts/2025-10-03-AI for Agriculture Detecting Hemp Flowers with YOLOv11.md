@@ -21,10 +21,11 @@ Stay tuned —
 
 ---
 
-### 🌻 Try Hemp Flower Detection Model
+### 🌻 Try the Live Detection App
 
-Our YOLOv11-based **Hemp Flower Detection App** is now publicly available!  
-You can upload hemp field images and instantly detect male and female flowers directly in your browser — no installation or coding required.
+Our AI-based hemp flower detection demo is now live!  
+Upload a field image to see automatic detection of male and female flowers in real time.  
+*(If the app is asleep, click “Restart Space” and wait a few seconds for the model to activate.)*
 
 <p align="center">
   <a href="https://huggingface.co/spaces/marshadu2024/hemp-flower-detect" target="_blank"
