@@ -11,7 +11,7 @@ Hemp’s flowering behavior plays a major role in determining crop quality, fibe
 
 To solve this, we trained a custom YOLOv11 model on **thousands of annotated drone images** captured from research plots at the University of Illinois Urbana-Champaign. The model learns to recognize subtle visual cues distinguishing male and female flowers under real field conditions. Once trained, it can process new field images in real time — highlighting detected flowers and reporting counts and ratios with impressive accuracy.
 
-![YOLO detection example](../images/hemp_yolo_detect.jpg)
+![YOLO detection example](../images/hemp_yolo_detect.png)
 
 The system is deployed as an easy-to-use **web application**, allowing users to upload their own field photos and receive instant results through any browser, even on mobile devices. This lightweight tool is designed for breeders, agronomists, and farmers who want a quick, data-driven view of flowering progress without the need for specialized hardware or coding knowledge.
 
