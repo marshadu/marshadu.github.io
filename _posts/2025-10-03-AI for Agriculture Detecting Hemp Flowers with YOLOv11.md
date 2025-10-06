@@ -17,6 +17,23 @@ The system is deployed as an easy-to-use **web application**, allowing users to 
 
 While this work is still ongoing and part of a larger research study, our goal is to make **AI-powered crop monitoring** more accessible for everyone involved in sustainable agriculture. In future posts, I’ll walk through the development steps — from dataset preparation and model training to web app deployment — and share insights into how such systems can help optimize crop performance, improve harvest timing, and enhance profitability in real-world production systems.
 
-Stay tuned — and if you’re curious to try the demo once it’s publicly released, I’ll share the link here soon!
+Stay tuned —
+
+---
+
+### 🌻 Try the Live Demo
+
+Our YOLOv11-based **Hemp Flower Detection App** is now publicly available!  
+You can upload hemp field images and instantly detect male and female flowers directly in your browser — no installation or coding required.
+
+<p align="center">
+  <a href="https://huggingface.co/spaces/marshadu2024/hemp-flower-detect" target="_blank">
+    <img src="https://img.shields.io/badge/Try%20it%20on%20Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" alt="Try on Hugging Face">
+  </a>
+</p>
+
+---
+
+
 
 
