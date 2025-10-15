@@ -80,6 +80,7 @@ You can also define these paths in a configuration file, so your scripts can aut
 
 When running many sites (e.g., across Illinois or the Midwest), a structured directory helps manage runs.
 A typical setup (used by the DDcentutils R package) looks like this:
+![Directory structure.png](Directory structure.png)
 
 DayCent/
 │
