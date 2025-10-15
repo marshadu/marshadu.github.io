@@ -82,30 +82,6 @@ When running many sites (e.g., across Illinois or the Midwest), a structured dir
 A typical setup (used by the DDcentutils R package) looks like this:
 ![Directory structure.png](Directory structure.png)
 
-DayCent/
-│
-├── template100files/      ← Original, read-only library files
-├── explore100files/       ← Working copies for calibration/testing
-├── sites/
-│   ├── site001/
-│   │   ├── site.100
-│   │   ├── soils.in
-│   │   ├── weather.wth
-│   │   ├── site.sch
-│   │   ├── outfiles.in
-│   │   └── output/        ← Model outputs (renamed per run)
-│   ├── site002/
-│   └── ...
-│
-├── bin/
-│   └── daycent.exe
-│
-└── runs/
-    ├── eq/                ← Equilibrium spin-up
-    ├── base/              ← Historical baseline
-    └── exp/               ← Experimental period
-
-
 Each site folder reuses the same .100 and .exe files but contains its own soil, weather, and schedule.
 Scripts then automate:
 
