@@ -1,5 +1,5 @@
 ---
-title: "Identifying Marginal Lands for Switchgrass Production"
+title: "How to Run Daycent"
 date: 2025-10-06
 tags: [Switchgrass, Marginal Lands, GIS, DayCent, Bioenergy]
 ---
