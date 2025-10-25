@@ -1,0 +1,20 @@
+<!-- _includes/archive-single-custom.html -->
+<div class="archive__item" style="margin-bottom:2rem;border-bottom:1px solid #eaeaea;padding-bottom:1rem;">
+  <h2 class="archive__item-title" style="margin-bottom:0.4rem;">
+    <a href="{{ post.url | relative_url }}" style="text-decoration:none;color:#007acc;">
+      {{ post.title }}
+    </a>
+  </h2>
+
+  {% if post.excerpt %}
+    <p style="margin-top:0.4rem;margin-bottom:0.8rem;">
+      {{ post.excerpt | strip_html | truncate: 200 }}
+    </p>
+  {% endif %}
+
+  <a href="{{ post.url | relative_url }}"
+     style="display:inline-block;background:#007acc;color:#fff;padding:6px 14px;border-radius:4px;
+            text-decoration:none;font-weight:500;">
+     Read&nbsp;More&nbsp;→
+  </a>
+</div>
