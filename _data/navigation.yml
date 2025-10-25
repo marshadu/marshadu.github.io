@@ -22,6 +22,9 @@ main:
         
   - title: "Posts"
     url: /year-archive/
+
+    - title: "Press Releases"
+    url: /press-release/
     
   - title: "CV"
     url: https://marshadu.github.io/files/Umer_Arshad_CV.pdf
