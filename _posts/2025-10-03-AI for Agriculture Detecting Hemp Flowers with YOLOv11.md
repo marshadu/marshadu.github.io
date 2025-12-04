@@ -36,7 +36,10 @@ Upload a field image to see automatic detection of male and female flowers in re
 </p>
 
 ---
+### 🧪 Source Code Availability
 
+The full model code, training scripts, and configuration files are publicly available on GitHub:  
+👉 https://github.com/marshadu/hemp-flower-detection
 
 
 
