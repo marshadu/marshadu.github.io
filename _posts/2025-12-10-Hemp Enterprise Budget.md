@@ -9,8 +9,6 @@ Farmers can select a scenario, enter yield, acres, and delivery distance, and th
 ## 📥 Download the Excel File
 👉 [Click here to download **2025_Hemp_Budget.xlsx**](2025_Hemp_Budget.xlsx)
 
-(*Make sure the Excel file is in the same folder as this `.md` file.*)
-
 ---
 
 ## 📘 How to Use the Spreadsheet (Simple Instructions)
