@@ -11,6 +11,27 @@ Below are selected press releases and media highlights featuring our research on
 
 ### 🗓️ 2025
 
+**University of Illinois College of ACES.** (2025, December). *Illinois research uncovers harvest and nutrient strategies to boost bioenergy profits.*  
+🔗 [Read article](https://aces.illinois.edu/news/illinois-research-uncovers-harvest-and-nutrient-strategies-boost-bioenergy-profits)
+
+**Illinois Ag Connection.** (2025). *Illinois Study Reveals Better Crop Yields.*  
+🔗 [Read article](https://illinoisagconnection.com/news/illinois-study-reveals-better-crop-yields)
+
+**EurekAlert!** (2025). *Harvesting biomass crops (IMAGE).*  
+🔗 [Read article](https://www.eurekalert.org/multimedia/1105429)
+
+**Phys.org.** (2025, December 8). *Uncovering harvest and nutrient strategies to boost bioenergy profits.*  
+🔗 [Read article](https://phys.org/news/2025-12-uncovering-harvest-nutrient-strategies-boost.html)
+
+**NewsBreak.** (2025). *Illinois research uncovers harvest and nutrient strategies to boost bioenergy profits.*  
+🔗 [Read article](https://www.newsbreak.com/news/4387374717091-illinois-research-uncovers-harvest-and-nutrient-strategies-boost-bioenergy-profits)
+
+**Newswise.** (2025). *Illinois Research Uncovers Harvest and Nutrient Strategies to Boost Bioenergy Profits.*  
+🔗 [Read article](https://www.newswise.com/articles/illinois-research-uncovers-harvest-and-nutrient-strategies-to-boost-bioenergy-profits)
+
+**MarketTalk Ag.** (2025, December 8). *Illinois Research Uncovers Harvest and Nutrient Strategies to Boost Bioenergy Profits.*  
+🔗 [Read article](https://www.markettalkag.com/2025/12/08/illinois-research-uncovers-harvest-and-nutrient-strategies-to-boost-bioenergy-profits/)
+
 **WCIA News.** (2025, April). *Prairie grass shows potential for sustainable aviation fuel: U of I scientists.*  
 🔗 [Read article](https://www.wcia.com/news/champaign-county/prairie-grass-shows-potential-for-sustainable-aviation-fuel-u-of-i-scientists/)
 
