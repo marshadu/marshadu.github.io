@@ -21,8 +21,8 @@ App: https://huggingface.co/spaces/marshadu2024/apex-soil-app
 
 ### Coordinate Excel format
 
-LAT LON
-31.25 -96.98
+LAT LON  
+31.25 -96.98  
 30.26 -97.74
 
 ### Interpolation option
