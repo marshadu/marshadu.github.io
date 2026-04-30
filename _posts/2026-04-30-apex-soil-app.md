@@ -1,17 +1,29 @@
 ---
-title: "APEX Soil Generator App"
+title: "APEX Soil Generator Tool"
 date: 2026-04-30
 ---
 
-I developed a simple web app to generate APEX soil (.SOL) files from SSURGO MUKEY values.
+This web tool generates APEX soil (.SOL) files using SSURGO MUKEY values.
 
-🔗 App link:
-https://huggingface.co/spaces/marshadu2024/apex-soil-app
+App: https://huggingface.co/spaces/marshadu2024/apex-soil-app
 
-### How to use:
-1. Upload an Excel file with a column named MUKEY  
-   OR enter MUKEY values manually (comma separated)  
-2. Click **Run**  
-3. Download the generated APEX soil files  
+### How it works
+- Enter MUKEY values or upload an Excel file (MUKEY column)
+- The tool pulls soil properties (layer depth, bulk density, water content, texture, pH, organic matter) from SSURGO
+- It formats the data into APEX-compatible .SOL files
+- Output is downloadable as a ZIP file
 
-This tool helps quickly prepare soil inputs for APEX modeling.
+### Interpolation option
+- ✔ Checked: generates 10 soil layers using interpolation (smooth profile)
+- ❌ Unchecked: uses original SSURGO layers (real data) and pads remaining layers
+
+### What is fixed
+- Uses dominant component (highest percentage) per MUKEY  
+- Standard APEX structure (10 layers per variable)  
+- Default values used for missing parameters  
+
+### Limitations
+- Only one soil component per MUKEY (no multi-component mixing)  
+- Depends on SSURGO data availability  
+- Interpolation may smooth real soil variability  
+- Some APEX parameters are fixed/default (not site-specific)  
