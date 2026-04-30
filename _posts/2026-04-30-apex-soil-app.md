@@ -5,6 +5,10 @@ date: 2026-04-30
 
 This tool generates APEX soil (.SOL) files from SSURGO MUKEY values.
 
+<a href="https://huggingface.co/spaces/marshadu2024/apex-soil-app" target="_blank">
+  <button style="padding:10px 20px; font-size:16px;">Open APEX Soil App</button>
+</a>
+
 App: https://huggingface.co/spaces/marshadu2024/apex-soil-app
 
 ### How it works
