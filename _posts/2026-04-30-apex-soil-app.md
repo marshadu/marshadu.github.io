@@ -19,11 +19,15 @@ App: https://huggingface.co/spaces/marshadu2024/apex-soil-app
 - Soil data is pulled from SSURGO and formatted into APEX .SOL files  
 - Output is downloaded as a ZIP  
 
-### Coordinate Excel format
+### Coordinate format
 
 LAT LON  
 31.25 -96.98  
-30.26 -97.74
+30.26 -97.74  
+29.76,-95.36
+
+### Mukey format
+365471,365472,365473
 
 ### Interpolation option
 - ✔ Checked: creates 10 layers using interpolation (smooth profile)  
