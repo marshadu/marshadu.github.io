@@ -3,27 +3,41 @@ title: "APEX Soil Generator Tool"
 date: 2026-04-30
 ---
 
-This web tool generates APEX soil (.SOL) files using SSURGO MUKEY values.
+This tool generates APEX soil (.SOL) files from SSURGO MUKEY values.
 
 App: https://huggingface.co/spaces/marshadu2024/apex-soil-app
 
 ### How it works
-- Enter MUKEY values or upload an Excel file (MUKEY column)
-- The tool pulls soil properties (layer depth, bulk density, water content, texture, pH, organic matter) from SSURGO
-- It formats the data into APEX-compatible .SOL files
-- Output is downloadable as a ZIP file
+- Enter MUKEY(s) or upload an Excel file with a MUKEY column  
+- Soil data is pulled from SSURGO (depth, bulk density, water content, texture, pH, organic matter)  
+- Output is formatted into APEX .SOL files and downloaded as a ZIP  
 
 ### Interpolation option
-- ✔ Checked: generates 10 soil layers using interpolation (smooth profile)
-- ❌ Unchecked: uses original SSURGO layers (real data) and pads remaining layers
+- ✔ Checked: creates 10 layers using interpolation (smooth soil profile)  
+- ❌ Unchecked: uses actual SSURGO layers (real values) and fills remaining layers  
 
-### What is fixed
-- Uses dominant component (highest percentage) per MUKEY  
-- Standard APEX structure (10 layers per variable)  
-- Default values used for missing parameters  
+### Important notes
+- Each MUKEY can have multiple soil components; this tool uses **only the dominant component (highest % area)**  
+- This means results represent the main soil, not all mixed soils in that MUKEY  
+
+### Fixed vs data-driven parameters
+- **Pulled from SSURGO (data-driven):**  
+  depth (Z), bulk density (BD), wilting point (WP), field capacity (FC), sand (SAN), silt (SIL), pH, organic carbon (WOC), albedo, hydrologic group  
+
+- **Fixed/default values:**  
+  WN, SMB, CAC, CEC, and other chemical/biological parameters → set to 0 or standard defaults  
+  TSLA, XIDS, RTN1, ZQT, etc. → fixed APEX constants  
+
+👉 These defaults are used because SSURGO does not consistently provide them  
 
 ### Limitations
-- Only one soil component per MUKEY (no multi-component mixing)  
-- Depends on SSURGO data availability  
-- Interpolation may smooth real soil variability  
-- Some APEX parameters are fixed/default (not site-specific)  
+- Does not combine multiple soil components within a MUKEY  
+- Some soil chemistry and biological parameters are simplified  
+- Interpolation may smooth real soil variation  
+- Output depends on SSURGO data quality and availability  
+
+### Feedback
+If you notice incorrect data or issues, please contact:  
+**marshadu2024@gmail.com**  
+
+Thank you — feedback will help improve and debug the tool.
